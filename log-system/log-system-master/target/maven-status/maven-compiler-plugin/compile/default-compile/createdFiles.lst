@@ -1,0 +1,5 @@
+MonitoringService.class
+LogProducer.class
+AnalysisService$LogEntry.class
+AnalysisService.class
+LogProducer$LogMessage.class
